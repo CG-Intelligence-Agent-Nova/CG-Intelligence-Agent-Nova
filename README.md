@@ -1,4 +1,8 @@
-# Agent Nova
+<p align="center">
+  <img src="./assets/agent-nova.png" width="180" alt="Agent Nova">
+</p>
+
+<h1 align="center">Agent Nova</h1>
 
 Product Engineer for the CG Intelligence Unit at The Casely Group.
 
